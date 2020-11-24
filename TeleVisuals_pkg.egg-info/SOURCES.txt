@@ -1,9 +1,0 @@
-README.md
-setup.py
-TeleVisuals/TeleVisuals.py
-TeleVisuals/__init__.py
-TeleVisuals_pkg.egg-info/PKG-INFO
-TeleVisuals_pkg.egg-info/SOURCES.txt
-TeleVisuals_pkg.egg-info/dependency_links.txt
-TeleVisuals_pkg.egg-info/requires.txt
-TeleVisuals_pkg.egg-info/top_level.txt
