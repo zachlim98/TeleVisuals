@@ -1,4 +1,4 @@
-# Introduction
+# Introduction [![PyPI version](https://badge.fury.io/py/TeleVisuals.svg)](https://badge.fury.io/py/TeleVisuals)
 
 The purpose of the package is to help you to visualize the chat messages from a Telegram Chat Group. It is still in development and the features are not extensive. As of now, there are 4 main features in this package (with hopes of more being added)
 
