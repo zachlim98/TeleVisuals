@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="TeleVisuals-pkg",
+    name="TeleVisuals",
     version="0.0.2",
     author="Zachary Lim",
     author_email="contact@nosparechange.com",
